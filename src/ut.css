@@ -1,0 +1,91 @@
+body {
+    font-size: 150%;
+}
+
+:root {
+    font-smooth: never;
+
+    --font-primary: "8bitoperator JVE";
+    --font-display: var(--font-primary) !important;
+    --background-primary: #000;
+    --background-tertiary: #000;
+    --background-secondary: #000;
+    --bg-overlay-1: #000;
+    --bg-overlay-2: #000;
+    --bg-overlay-3: #000;
+}
+
+.messageListItem__6a4fb {
+    background-color: rgb(0, 0, 0);
+    border-top: 1px #fff solid;
+    border-left: 1px #fff solid;
+    border-right: 1px #fff solid;
+    padding: 10px 5px;
+}
+
+/*
+.messageContent__21e69:before {
+    content: "* ";
+}
+*/
+
+.avatar__08316 {
+    border-radius: 0;
+}
+
+.markup_a7e664 {
+    font-size: 24px;
+}
+
+.username_d30d99 {
+    font-size: 20px;
+}
+
+.cozy_f5c119 .timestamp_cdbd93 {
+    font-size: 16px;
+}
+
+.avatar__08316 {
+    width: 40px;
+    height: 40px;
+}
+
+.scrollerInner__059a5 li:nth-last-child(2) {
+    border-bottom: 1px #fff solid;
+}
+
+.scrollableContainer__33e06 {
+    border-radius: 0px;
+    border: 1px #fff solid;
+}
+
+.auto_a48086::-webkit-scrollbar-thumb {
+    background-color:  #fff;
+    border-radius: 0px;
+}
+
+.auto_a48086::-webkit-scrollbar-track {
+    background-color: rgb(0, 0, 0);
+}
+
+.title_b7d661 {
+    border: 1px #fff solid;
+}
+
+.guilds__2b93a {
+    border: 1px #fff solid;
+}
+
+.sidebar_ded4b5 {
+    border-top: 1px #fff solid;
+    border-bottom: 1px #fff solid;
+}
+
+.platform-win .sidebar_ded4b5 {
+    border-radius: 0;
+}
+
+.panels__58331 {
+    border-top: 1px #fff solid;
+    border-right: 1px #fff solid;
+}
